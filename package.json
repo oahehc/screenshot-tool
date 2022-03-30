@@ -1,0 +1,30 @@
+{
+  "name": "screenshot-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oahehc/screenshot-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oahehc/screenshot-tool/issues"
+  },
+  "homepage": "https://github.com/oahehc/screenshot-tool#readme",
+  "prettier": {
+    "printWidth": 120,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "arrowParens": "avoid"
+  },
+  "devDependencies": {
+    "inquirer": "^8.2.2",
+    "ora": "^6.1.0",
+    "puppeteer": "^13.5.1"
+  }
+}
